@@ -4,7 +4,7 @@ This project is a comprehensive database management system for a college, design
 
 ## ER Diagram
 
-![ER Diagram](clgdb.jpg)
+![ER Diagram](clgdb_er.jpg)
 
 ## Features
 
