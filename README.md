@@ -2,6 +2,10 @@
 
 This project is a comprehensive database management system for a college, designed to efficiently manage data related to students, faculty, courses, results, and more. The system is implemented using MySQL and includes various tables with well-defined relationships and constraints to ensure data integrity and consistency.
 
+## ER Diagram
+
+![ER Diagram](clgdb.jpg)
+
 ## Features
 
 ### 1. Comprehensive Data Management
